@@ -1,5 +1,3 @@
-<center><iframe src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="480" height="208" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/starwars-star-wars-episode-3-xTiIzJSKB4l7xTouE8">Hello There</a></p></center>
-
 <h1 align="center">👋, I'm Jack Kai</h1>
 <h3 align="center">An aspiring cloud engineer</h3>
 
