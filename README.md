@@ -1,7 +1,7 @@
 <h1 align="center">👋, I'm Jack Kai</h1>
-<h3 align="center">An aspiring cloud engineer</h3>
+<h3 align="center">Aspiring cloud engineer</h3>
 
-- 🔭 I’m currently working on **GCP Professional Cloud Architect Certification**
+- 🔭 I’m currently working on **GCP Professional Cloud Architect Certification Exam Prep**
 
 - 🌱 I’m currently learning **Terraform HCL, cloud design and process**
 
