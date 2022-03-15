@@ -1,13 +1,13 @@
 <h1 align="center">👋, I'm Jack Kai</h1>
 <h3 align="center">Aspiring cloud engineer</h3>
 
-- 🔭 I’m currently working on **GCP Professional Cloud Architect Certification Exam Prep**
+- 🔭 I’m currently working on **GCP Professional Cloud Architect Certification Exam Prep**.
 
-- 🌱 I’m currently learning **Terraform HCL, cloud design and process**
+- 🌱 I’m currently learning **Cloud Architecture solutions design and process**.
 
-- 👨‍💻 Read more about my writings in [this repo](https://github.com/jkbeh/GCP-Qwiklabs-Quests)
+- 👨‍💻 Hands on practice & exploring with [Google Cloud lab works](https://www.cloudskillsboost.google/public_profiles/c1ec9911-d4af-4b16-9b03-997b9778f872) & documenting it in [this repo.](https://github.com/jkbeh/GCP-Qwiklabs-Quests)
 
-- 💬 Ask me about: **GCP**
+- 💬 Ask me about: **GCP Solutions**
 
 - ⚡ Fun fact: **I ❤ playing Cities Skylines, i do consider myself an urban planner 😂**
 
